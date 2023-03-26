@@ -1,3 +1,3 @@
 # tictictoe
 
-try for free :) -> tictictoe.netlify.app
+try for free :) -> https://tictictoe.netlify.app/
